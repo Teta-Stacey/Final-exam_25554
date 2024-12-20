@@ -10,7 +10,7 @@ This project is a **Gym Management System** built using **React** (frontend) and
 - **Sign In**: Secure login with password validation.
 - **Role-Based Features**: Role-specific access to gym management functionalities.
 - **Responsive Design**: User-friendly interface across devices.
-- **Phone Number Validation**: Ensures format compliance (**+** for Country code).
+- **Phone Number Validation**: Ensures format compliance (**+**  (Country code).
 
 ---
 
