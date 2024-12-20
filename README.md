@@ -6,7 +6,7 @@ This project is a **Gym Management System** built using **React** (frontend) and
 ---
 
 ## ✨ Key Features
-- **Sign Up**: Register users with roles (e.g., Admin, Trainer, Member).
+- **Sign Up**: Register users with roles (e.g., Admin, User).
 - **Sign In**: Secure login with password validation.
 - **Role-Based Features**: Role-specific access to gym management functionalities.
 - **Responsive Design**: User-friendly interface across devices.
