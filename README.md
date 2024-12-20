@@ -22,7 +22,7 @@ This project is a **Gym Management System** built using **React** (frontend) and
 ---
 
 ## ✅ Validation Rules
-- **Phone Numbers**: Must follow the **+250** format.
+- **Phone Numbers**: Must follow the **+** format (counrty code).
 - **Password**: At least 8 characters, including uppercase, lowercase, numbers, and special characters.
 
 ---
